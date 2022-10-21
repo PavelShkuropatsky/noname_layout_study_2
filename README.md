@@ -10,3 +10,6 @@ but with some changes
 - widgets are used instead of helper functions
 - added constraints for more correct work on web side
 - added some snackbars for buttons work demonstration 
+- some fixes, for example
+  - positions of snackbars
+  - layout settings of floating button in bottom navigation bar
